@@ -1,0 +1,11 @@
+{
+    "module": {
+        "name": "time",
+        "type": "har",
+        "deviceTypes": [
+            "default",
+            "tablet",
+            "2in1"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "trust-time",
+  "version": "1.0.0",
+  "description": "轻量级的校准时间库，通过ntp时间、Disk缓存时间、网络时间 来提高当前时间的准确性，进而减少本机时间不准导致的异常",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  },
+  "dynamicDependencies": {}
+}

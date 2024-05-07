@@ -1,0 +1,11 @@
+{
+  "name": "@huolala/trust-time",
+  "version": "1.0.0-alpha.1",
+  "description": "A light calibration time library that improves the accuracy of the current time through ntp time, disk cache time, and network time, thereby reducing anomalies caused by inaccurate local time",
+  "main": "Index.ets",
+  "author": "hll",
+  "license": "Apache-2.0",
+  "dependencies": {
+  },
+
+}
